@@ -1,17 +1,27 @@
 Dares{
-    Slap Your Opponent
-    Get a slap from your Opponent
-    tell the most embarrassing movement of your school life
-    Show the most embarrasing photo on your phone
-    Give a foot massage to your opponent
-    Let your opponent message someone from your instagram account
-    Eat a raw onion
-    Keep three ice cubes in your mouth until they melt
-    Be your opponents pet for next 5 minutes
-    Let your opponent ticke you for 1 minute and if you laugh start it over again
-    Do 30 push ups without a break and if you stopped in between start it over again
-    eat 5 pinches of red chilli powder
-    Call dominos and say pizza hut is better that you 
+    Slap Your Opponents.
+    Get a slap from your Opponents.
+    tell the most embarrassing movement of your school life.
+    Show the most embarrasing photo on your phone.
+    Give a foot massage to your opponents.
+    Let your opponents message someone from your instagram account.
+    Eat a raw onion.
+    Keep three ice cubes in your mouth until they melt.
+    Be your all opponent's pet for next 5 minutes.
+    Let your opponents ticke you for 1 minute and if you laugh start it over again.
+    Do 30 push ups without a break and if you stopped in between start it over again.
+    Do 10 push ups on one hand without a break and if you stopped in between start it over again.
+    eat 5 pinches of red chilli powder.
+    Call dominos and say pizza hut is better that you .
+    give a sholder massage to opponents.
+    Mix all the sauces you have in your house and eat at least half tea spoon of it.
+    Act like a dog for two minutes without laughing and if you laugh start it over again.
+    speak like a robot for next 5 turns.
+    Let all player write something on your head and don’t wipe it off until the end of the game.
+    Say everthing by singing for 10 min.
+    Put your tongue out and cite a poem for at least 30 seconds.
+    Set your crush’s picture as your instagram profile picture.
+    give the person on your right a back ride until your next turn.
     
 }
 Truth{
@@ -28,5 +38,42 @@ Truth{
     Who was your first celebrith crush
     have you ever cheated in a exam
     Who would you like to kiss in this room
-    Tell your opponent that you didnt wanted to tell him/her
+    Tell your opponents that you didnt wanted to tell him/her
+    Tell us about the last dream you can remember. Don’t leave any details out!
+    Have you ever lied about being sick so you could stay home from work or school?
+    If you could do one thing you did when you were a child, what would it be?
+    What is the one thing you dislike about yourself?
+    What is the one thing you really like about yourself?
+    What is the one thing you would stand in line for 10 hours?
+    If anyone in your family could win an award for being the most annoying, who would it be?
+    What is your least favorite household chore?
+    If you could hire someone to do one thing for you, what would it be?
+    What was the worst gift you ever received?
+    Have you ever sent an inappropriate text to your mom or dad by accident?
+    Have you ever bought something to wear to an event and then returned it to the store when the event was over?
+    What was your favorite childhood television show?
+    What is one thing you did as a child that you still enjoy?
+    Where is your favorite vacation spot?
+    If you could live anywhere in the world, where would it be?
+    Have you ever forgotten a special person’s birthday?
+    On a scale from 1-10, where does your patience fall?
+    Say the funniest joke you’ve ever heard.
+    Have you ever been stuck in an elevator and if so who were you with?
+    What was your favorite subject in school?
+    What is your favorite ice cream flavor?
+    What is the best gift you ever received and by whom?
+    What is your favorite sport?
+    What is your favorite ride at the amusement park?
+    What makes you the happiest?
+    If there was one thing you could change about yourself, what would it be?
+    What do you like to do when you are with your friends?
+    Who was your first crush?
+    How old were you when you had your first crush?
+    What is the best time of day for you?
+    Name the three websites you visit the most.
+    What is your favorite vegetable?
+    What is your favorite fruit?
+    What season is your favorite?
+    If you could be someone else for a day who would you be?
+    Do you prefer talking or texting?
 }

@@ -86,14 +86,14 @@ alert("File has been created by Shresth Sharma and "+"All the copyrights are res
 }
 function draw(){
     if(person==2){
-        background("green");
+        background("orange");
     //enter text for test
     strokeWeight(5);
     fill("blue");
     stroke("red");
-    textSize(40);
-    text("",100,400);
-
+    textSize(30);
+    
+        
 
 
     //between these
@@ -122,12 +122,12 @@ function draw(){
            c1=Math.round(random(1,2))
            c2=Math.round(random(1,2))
            if(c2===1){
-            c3=Math.round(random(1,2))
+            c3=Math.round(random(1,23))
             
             
            }
            if(c2===2){
-            c4=Math.round(random(1,2))
+            c4=Math.round(random(1,52))
             
             
            }
@@ -232,12 +232,12 @@ function draw(){
                c1=Math.round(random(1,3))
                c2=Math.round(random(1,2))
                if(c2===1){
-                c3=Math.round(random(1,2))
+                c3=Math.round(random(1,23))
                 
                 
                }
                if(c2===2){
-                c4=Math.round(random(1,2))
+                c4=Math.round(random(1,52))
                 
                 
                }
@@ -370,12 +370,12 @@ function draw(){
            c1=Math.round(random(1,8))
            c2=Math.round(random(1,2))
            if(c2===1){
-            c3=Math.round(random(1,2))
+            c3=Math.round(random(1,23))
             
             
            }
            if(c2===2){
-            c4=Math.round(random(1,2))
+            c4=Math.round(random(1,52))
             
             
            }
