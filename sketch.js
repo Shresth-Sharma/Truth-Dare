@@ -8,13 +8,14 @@ var c1,c2,c3,c4;
 var g1;
 let person;
 function preload(){
-    bt2=loadAnimation("bt2.png","bt1.png","bt3.png","bt4.png");
+    bt2=loadAnimation("1.png","2.png","3.png","4.png","5.png","6.png","7.png","8.png","9.png","10.png","11.png","12.png","13.png","14.png","15.png","16.png","17.png","18.png","19.png","20.png","21.png","22.png","23.png");
 }
 function setup(){
 alert("File has been created by Shresth Sharma and "+"All the copyrights are reserved");
     person = prompt("Enter the number of players", "");
     if(person==2){
         frameRate(999999999);
+        bt2.frameDelay = 0.5
     createCanvas(600,600);
     name1=createInput();
     name1.size(400,30);

@@ -42,7 +42,7 @@ function truth(){
     if(c4===7){
         text("What is the secret you didnt told",0,400);
         text("to your parents about",0,430);
-        text("",0,460);
+        text("Who do you text most",0,460);
         text("",0,490);
     }
     if(c4===8){
